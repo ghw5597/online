@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
 	"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-	<plist version="1.1.27">
+	<plist version="1.1.28">
 	<dict>
 	 <key>items</key>
 	 <array>
@@ -41,7 +41,7 @@
 	    <string>com.ghw.oatest</string>
 	    <key>bundle-version</key>
 	    <!-- 版本号 -->
-	    <string>1.1.27</string>
+	    <string>1.1.28</string>
 	    <key>kind</key>
 	    <string>software</string>
 	    <key>title</key>
